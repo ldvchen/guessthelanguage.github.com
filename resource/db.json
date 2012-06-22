@@ -1,0 +1,19 @@
+{"languages": [
+  {
+    "name":"Ruby",
+    "img":"http://d2o0t5hpnwv4c1.cloudfront.net/966_essentialReading/images/rubylang.png"
+  },
+  {
+    "name":"Python",
+    "img":"http://greeennotebook.com/wp-content/uploads/2010/06/python-logo.png"
+  },
+  {
+    "name":"Haskell",
+    "img":"http://kuniga.files.wordpress.com/2021/07/haskell.png"
+  },
+  {
+    "name":"Java",
+    "img":"http://interhacker.files.wordpress.com/2011/12/dukewave1.png"
+  }
+] }
+  

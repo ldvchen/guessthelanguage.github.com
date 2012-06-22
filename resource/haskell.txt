@@ -1,0 +1,3 @@
+-- Hello World. What language am I?
+ 
+main = putStrLn "Hello World"
